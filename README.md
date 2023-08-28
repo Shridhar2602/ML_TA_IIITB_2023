@@ -2,6 +2,8 @@
 
 This repository contains material relevant to the `AI511 Machine Learning` Course. 
 
+If you find any bugs or wish to suggest any resources, feel free to mail us or raise a [PR](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request-from-github-desktop)
+
 ## Teaching Assistants 
 - Shridhar.Sharma@iiitb.ac.in
 - Kedar.Deshpande@iiitb.ac.in
